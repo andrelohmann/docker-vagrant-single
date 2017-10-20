@@ -1,0 +1,7 @@
+/.vagrant
+/docker-images/*
+!/docker-images/default
+/ansible/roles
+.DS_Store
+*.retry
+*.log
